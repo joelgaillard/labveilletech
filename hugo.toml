@@ -1,5 +1,5 @@
 # Configuration de base
-baseURL = "https://joelgaillard.github.io"
+baseURL = "https://joelgaillard.github.io/labveilletech"
 title = "Joël Gaillard"
 theme = "PaperMod"
 languageCode = "fr"
