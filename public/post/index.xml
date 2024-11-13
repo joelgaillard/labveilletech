@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Joël Gaillard</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Joël Gaillard</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 12 Nov 2024 20:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 2</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Tue, 12 Nov 2024 20:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>&lt;h1 id=&#34;article-2&#34;&gt;Article 2&lt;/h1&gt;
+&lt;p&gt;Article2&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Article 1</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Mon, 11 Nov 2024 20:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h1 id=&#34;article-1&#34;&gt;Article 1&lt;/h1&gt;
+&lt;p&gt;Article1&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

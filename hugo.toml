@@ -1,0 +1,40 @@
+# Configuration de base
+baseURL = "https://votre-site.com"
+title = "Joël Gaillard"
+theme = "PaperMod"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+paginate = 10 # Nombre de posts par page
+
+[params]
+  # Paramètres du thème PaperMod
+  env = "production"  # Environnement de production
+  ShowBreadcrumb = true # Fil d'Ariane activé
+  disableThemeToggle = false # Option pour le mode sombre
+
+  # Configuration pour la page d'accueil
+  homeInfoParams = {Title = "Accueil", Content = "Bienvenue sur mon blog de veille technologique consacrée au développement web !"}
+
+# Menu pour l'en-tête du site
+[menu]
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "À Propos"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Articles"
+    url = "/post/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
