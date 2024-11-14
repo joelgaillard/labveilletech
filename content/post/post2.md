@@ -1,10 +1,10 @@
 +++
-title = "Étude : comment les développeurs utilisent l’IA en 2024"
+title = "Introduction to Web Accessibility"
 date = "2020-04-14T20:00:00+01:00"
 +++
 
 ![Image](/labveilletech/post2.png)
-*© khosrork, Adobe Stock*
+*© Михаил Решетников, Adobe Stock*
 
 L'article "Introduction to Web Accessibility" de WebAIM (Web Accessibility in Mind) offre une vue d’ensemble sur les concepts clés de l’accessibilité web et l’importance d’inclure toutes les personnes, y compris celles ayant des handicaps, dans la conception des sites et applications web. L’accessibilité est une démarche qui permet aux personnes avec des limitations physiques, auditives, visuelles ou cognitives d’accéder à l’information en ligne. 
 
