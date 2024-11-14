@@ -6,6 +6,7 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 paginate = 10 # Nombre de posts par page
 
+
 [params]
   # Paramètres du thème PaperMod
   env = "production"  # Environnement de production
@@ -34,6 +35,13 @@ paginate = 10 # Nombre de posts par page
     name = "Articles"
     url = "/post/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "experiment"
+    name = "Expérimentation"
+    url = "/experiment/"
+    weight = 3
+
 
 [taxonomies]
   category = "categories"
