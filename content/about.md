@@ -5,7 +5,7 @@ title = 'À propos'
 
 ## Qui suis-je ?
 
-![Image](/images/joel.png)
+![Image](joel.png)
 Je m'appelle Joël Gaillard et j'ai 23 ans. Originaire du Valais, je me suis établi à Neuchâtel pour mes études.
 
 Après un CFC de polygraphe et une maturité professionnelle technique, j'ai décidé d'entreprendre un cursus de bachelor en ingénierie des médias à la HEIG-VD. Je suis désormais en dernière année, motivé à retourner sur le marché du travail !
@@ -26,7 +26,7 @@ Mon objectif de veille est de toujours améliorer mes compétences et de rester 
 
 ## Mon Ikagaï
 
-![Image](/images/ikagai.svg)
+![Image](ikagai.svg)
 
 ## Taxonomies relatives au développement web
 Parmi l'ensemble des termes relatifs au développement web, j'ai choisi de me concentrer sur ceux-ci que je trouve les plus pertinents et qui permettent de rester à jour sur le domaine:
