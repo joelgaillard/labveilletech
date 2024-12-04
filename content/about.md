@@ -31,13 +31,13 @@ Mon objectif de veille est de toujours améliorer mes compétences et de rester 
 ## Taxonomies relatives au développement web
 Parmi l'ensemble des termes relatifs au développement web, j'ai choisi de me concentrer sur ceux-ci que je trouve les plus pertinents et qui permettent de rester à jour sur le domaine:
 
-- JavaScript
-- CSS
-- FullStack
-- DevOps
-- WebSecurity
-- SEO
+- Languages et Frameworks (HTML, CSS, Javascipt, PHP, Vue, React, Laravel)
+- Database (SQL et NoSQL) (MySQL, PostgreSQL, MongoDB, CouchDB)
+- Frontend
+- Backend
+- Open-source
 - Performance
+- IDE (environnement de développement intégré)
 
 ## Choix du SSG
 J'ai choisi **Hugo**, l'un des SSG les plus populaires. Comme je n'ai jamais utilisé cet outil ni le langage Go, cela me permet donc d'apprendre l'utilisation de technologies que je ne connais pas, un atout précieux pour mon avenir dans le développement web.

@@ -4,7 +4,6 @@ date = "2020-04-14T20:00:00+01:00"
 +++
 
 ![Image](/labveilletech/post2.png)
-*© Михаил Решетников, Adobe Stock*
 
 L'article "Introduction to Web Accessibility" de WebAIM (Web Accessibility in Mind) offre une vue d’ensemble sur les concepts clés de l’accessibilité web et l’importance d’inclure toutes les personnes, y compris celles ayant des handicaps, dans la conception des sites et applications web. L’accessibilité est une démarche qui permet aux personnes avec des limitations physiques, auditives, visuelles ou cognitives d’accéder à l’information en ligne. 
 
@@ -20,7 +19,12 @@ Ma copine est amenée a travailler dans des foyers pour personnes en situation d
 
 Acquérir des compétences de développement axées sur l’accessibilité pourrait permettre d’aider ces gens pour leur utilisation du web.
 
-**Source :** https://webaim.org/intro/
+
+
+**Source :** https://webaim.org/intro
+
+**Image d'illustration :** *© Михаил Решетников, Adobe Stock*
+
 
 
 

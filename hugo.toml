@@ -40,7 +40,14 @@ paginate = 10 # Nombre de posts par page
     identifier = "experiment"
     name = "Expérimentation"
     url = "/experiment/"
-    weight = 3
+    weight = 10
+
+      [[menu.main]]
+    identifier = "listening"
+    name = "Système d'écoute"
+    url = "/listening/"
+    weight = 10
+
 
 
 [taxonomies]
