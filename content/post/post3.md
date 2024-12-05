@@ -1,6 +1,6 @@
 +++
 title = "How to Write Clean Code – Tips for Developers with Examples"
-date = "2024-11-05T20:00:00+01:00"
+date = "2024-11-05"
 +++
 
 ![Image](/labveilletech/post3.png)
@@ -31,19 +31,20 @@ L'auteur nous décrit par la suite les 10 points qui lui semblent les plus essen
 
 10. Limiter la longueur des fonctions
 
-### Pertinence pour le thème du développement web
+## Pertinence pour le thème du développement web
 Cet article est particulièrement pertinent pour le développement web, car il traite de pratiques fondamentales qui impactent directement la qualité, la maintenance et l'évolution des projets.
 
 Il est également bon de rappeler que la plupart des projets de développement web se font à plusieurs, d'où l'importance cruciale de faire un code lisible et cohérent comme d'autres développeurs seront amenés à travailler sur projet.
 
-### Mon rapport à cet article
+## Mon rapport à cet article
 Le contenu de cet article m'est utile au quotidien lors de mes projets de développement à la HEIG-vd et me sera utile lors de ma future carrière de développeur. 
 
-Bien quer je connaissais déjà certaines de ces pratiques, une bonne piqure de rappel ne fait jamais de mal d'autant que j'ai également pu appprendre des nouvelles informations.
+Bien que je connaissais déjà certaines de ces pratiques, une bonne piqure de rappel ne fait jamais de mal d'autant que j'ai également pu appprendre des nouvelles informations.
+
+Lorsque je vais commencer un nouveau projet de développement, je vais pouvoir rapidement relire ces 10 bonnes pratiques afin de partir sur des bonnes bases.
 
 
-
-**Source :** https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/?ref=dailydev
+**Source :** https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/
 
 **Image d'illustration :** *Images présentes sur l'article*
 

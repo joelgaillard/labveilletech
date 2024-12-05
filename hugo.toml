@@ -36,12 +36,6 @@ paginate = 10 # Nombre de posts par page
     url = "/post/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "experiment"
-    name = "Expérimentation"
-    url = "/experiment/"
-    weight = 10
-
       [[menu.main]]
     identifier = "listening"
     name = "Système d'écoute"

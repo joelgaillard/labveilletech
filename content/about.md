@@ -41,9 +41,3 @@ Parmi l'ensemble des termes relatifs au développement web, j'ai choisi de me co
 
 ## Choix du SSG
 J'ai choisi **Hugo**, l'un des SSG les plus populaires. Comme je n'ai jamais utilisé cet outil ni le langage Go, cela me permet donc d'apprendre l'utilisation de technologies que je ne connais pas, un atout précieux pour mon avenir dans le développement web.
-
-
-
-
-
-

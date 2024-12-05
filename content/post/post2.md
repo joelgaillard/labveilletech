@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Web Accessibility"
-date = "2020-04-14T20:00:00+01:00"
+date = "2020-04-14"
 +++
 
 ![Image](/labveilletech/post2.png)
@@ -9,16 +9,17 @@ L'article "Introduction to Web Accessibility" de WebAIM (Web Accessibility in Mi
 
 L’article présente les bonnes pratiques en terme d’accessibilité, tel que l’utilisation de textes alternatifs pour les images, la création de contenus navigables au clavier, et l’organisation claire de l’information. WebAIM encourage les développeurs à suivre des normes telles que les WCAG (Web Content Accessibility Guidelines) pour rendre leurs sites accessibles à tous.
 
-### Pertinence pour le thème du développement web
+## Pertinence pour le thème du développement web
 
 L’accessibilité semble de nos jours être passablement délaissée dans le monde de la programmation. Nous pensons tout de suite à faire des sites web performants, visuellement attractifs, mais oublions que certaines personnes n’ont pas la chance de pouvoir utiliser le web à son plein potentiel. 
 
-### Mon rapport à cet article
+## Mon rapport à cet article
 
 Ma copine est amenée a travailler dans des foyers pour personnes en situation de handicap et m’explique qu’ils utilisent presque tous des iPad pour les aider dans leur vie quotidienne, ou même pour se divertir. Hors, certaines fonctionnalités sont inutilement complexe et il est dommage de priver ces personnes de contenus à la base simples. 
 
 Acquérir des compétences de développement axées sur l’accessibilité pourrait permettre d’aider ces gens pour leur utilisation du web.
 
+Dans le futur, je serai certainement amené à travailler sur de l'accessibilité et je serai ravi de me rappeler de l'existence de WebAim.
 
 
 **Source :** https://webaim.org/intro
