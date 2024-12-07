@@ -55,7 +55,7 @@ La personne chargée du développement de la plateforme m'a déjà mentionné l'
 Cette vidéo et ce résumé seront donc utiles pour revisiter les design patterns et mieux comprendre le code existant dans le framework.
 
 
-**Source :** 
+**Source :** https://www.youtube.com/watch?v=tAuRQs_d9F8 
 
 **Image d'illustration :** *Images présentes sur l'article*
 

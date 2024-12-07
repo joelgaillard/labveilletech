@@ -52,11 +52,56 @@ J'ai voulu créé une sorte de système de mise en favoris élaboré permettant 
 
 J'ai choisi d'utiliser notion car c'est un système très personnalisable et modulable que j'utilise déjà en cours pour ma prise de note et mon agenda.
 
-Basé sur le fonctionnement des SGBD, il permet une communication entre les éléments et me permet d'avoir un classement de contenu structuré rigoureusement et facile d'utilisation.
+Basé sur le fonctionnement des bases de données, il permet une communication entre les éléments et me permet d'avoir un classement de contenu structuré rigoureusement et facile d'utilisation.
 
 ### Mon Hub 
 
+Le hub se consititue de 3 menus déroulants h1. De base, je le laisse en mode consultation, en ne déroulant que le contenu par catégorie.
+
 ![Image](/labveilletech/hub.png)
+
+
+**Vue de mon classement général d'articles**
+
+J'ai créé une db dans notion pour stocker rapidement tous mes articles, qu j'ai placé sous mon menu déroulant classement. 
+Je l'ai affichée sous forme de tableau pour rapidement pouvoir saisir toutes les informations pertinentes.
+
+Notion me laisse la polyvalence de pouvoir facilement créer des documents dans les cases de types texte de ma base de données, ce qui me permet d'ajouter des résumés ou des notes personnelles (en plus du titre) si je le souhaite.
+
+Pour mon classement, j'ai créé différents thèmes pour me retrouver facilement. J'ai également choisi de stocker la date de publication ainsi qu'une date autoincrémentée de classement pour pouvoir me retrouver temporellement.
+
+(Comme je l'ai dit, les dates de classement sont auto-incrémentées, je n'ai évidemment pas attendu le 5 décembre pour faire mes sélections d'articles, mais mon système n'était pas encore fonctionnel avant cette date, d'où ces dates de classement rapprochées ;-) )
+
+![Image](/labveilletech/classement-general.png)
+
+
+**Vue d'une catégorie (ici conseils)**
+
+Pour mes catégories, j'ai utilisé une vue de ma base de données de classememt général d'articles, mais les ai filtré par la catégorie référente et affichée cette fois-ci sous forme de vignettes plus visuelles qui me donnent plus envie de relire un article.
+
+À voir si sur le long terme, lorsque j'aurai bien plus d'articles, s'il est toujours pertinent de garder ce visuel de vignettes. 
+
+Il est de toute manière très simple dans Notion de repasser à une autre forme d'affichage.
+
+![Image](/labveilletech/conseils.png)
+
+## Conclusion
+Je pense avoir réussi à trouver mon système de veille et de classement, qui va de toute manière évoluer avec le temps selon mes besoins spéficiques.
+
+Le seul point négatif que j'y trouve est la dépendance à Notion.
+
+Cependant, je fais régulièrement des exports en CSV et Markdown de mes espaces Notion que je stocke sur un disque dur externe. Donc même si dans un futur plus ou moins proche Notion disparaissait, j'aurai quand même une sauvegarde de ma veille, qui j'imagine pourrait être compatible avec d'autre plateformes basées sur les fichiers Markdown comme Obsidian.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
