@@ -57,7 +57,7 @@ Cette vidéo et ce résumé seront donc utiles pour revisiter les design pattern
 
 **Source :** https://www.youtube.com/watch?v=tAuRQs_d9F8 
 
-**Image d'illustration :** *Images présentes sur l'article*
+**Image d'illustration :** *Miniature de la vidéo YouTube*
 
 
 
