@@ -11,7 +11,7 @@ Il nous explique que l'accessibilité numérique offre des opportunités uniques
 
 Cependant, il nous dit aussi que de nombreux sites restent encore inaccessibles, imposant des obstacles tels que l’utilisation exclusive de la souris ou l’absence de sous-titres pour les contenus multimédias, limitant ainsi leur potentiel inclusif.
 
-Pour remédier à ces lacunes, l'organisation nous recommande l’adoption de pratiques conformes aux directives WCAG, comme l’utilisation de texte alternatif, l’accessibilité des formulaires ou la création de contenus clairs et structurés, est essentielle.
+Pour remédier à ces lacunes, l'organisation nous recommande l’adoption de pratiques conformes aux directives WCAG, comme l’utilisation de texte alternatif, l’accessibilité des formulaires ou la création de contenus clairs et structurés.
 
 ## Pertinence pour le thème du développement web
 
@@ -19,7 +19,7 @@ L’accessibilité, qui est sujet important pour le développement web, semble d
 
 ## Mon rapport à cet article
 
-Ma copine est amenée a travailler dans des foyers pour personnes en situation de handicap et m’explique qu’ils utilisent presque tous des iPad pour les aider dans leur vie quotidienne, ou même pour se divertir. Hors, certaines fonctionnalités sont inutilement complexes et il est dommage de priver ces personnes de contenus à la base simples. 
+Ma copine est amenée à travailler dans des foyers pour personnes en situation de handicap et m’explique qu’ils utilisent presque tous des iPad pour les aider dans leur vie quotidienne, ou même pour se divertir. Hors, certaines fonctionnalités sont inutilement complexes et il est dommage de priver ces personnes de contenus à la base simples. 
 
 Acquérir des compétences de développement axées sur l’accessibilité pourrait permettre d’aider ces gens pour leur utilisation du web.
 

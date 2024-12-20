@@ -34,12 +34,12 @@ L'auteur nous décrit par la suite les 10 points qui lui semblent les plus essen
 ## Pertinence pour le thème du développement web
 Cet article est particulièrement pertinent pour le développement web, car il traite de pratiques fondamentales qui impactent directement la qualité, la maintenance et l'évolution des projets.
 
-Il est également bon de rappeler que la plupart des projets de développement web se font à plusieurs, d'où l'importance cruciale de faire un code lisible et cohérent comme d'autres développeurs seront amenés à travailler sur projet.
+Il est également bon de rappeler que la plupart des projets de développement web se font à plusieurs, d'où l'importance cruciale de faire un code lisible et cohérent comme d'autres développeurs peuvent être amenés à travailler sur un même projet.
 
 ## Mon rapport à cet article
 Le contenu de cet article m'est utile au quotidien lors de mes projets de développement à la HEIG-vd et me sera utile lors de ma future carrière de développeur. 
 
-Bien que je connaissais déjà certaines de ces pratiques, une bonne piqure de rappel ne fait jamais de mal d'autant que j'ai également pu appprendre des nouvelles informations.
+Bien que je connaissais déjà certaines de ces pratiques, une bonne piqûre de rappel ne fait jamais de mal d'autant que j'ai également pu appprendre de nouvelles informations.
 
 Lorsque je vais commencer un nouveau projet de développement, je vais pouvoir rapidement relire ces 10 bonnes pratiques afin de partir sur des bonnes bases.
 

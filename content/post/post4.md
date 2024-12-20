@@ -7,7 +7,7 @@ date = "2023-02-06"
 
 Cette vidéo explique avec humour huit modèles de design patterns essentiels que tout développeur devrait connaître, tirés du livre « Gang of Four » de 1994. 
 
-Le présentateur utilise le python pour illustrer ses propos, mais ces designs patterns sont évidemment utilisables sur les autres languages.
+Le présentateur utilise le python pour illustrer ses propos, mais ces designs patterns sont évidemment utilisables sur les autres langages.
 
 Ces modèles sont classés en trois catégories : les modèles de création, les modèles structurels et les modèles comportementaux. 
 
@@ -29,10 +29,10 @@ Ces modèles sont classés en trois catégories : les modèles de création, les
 - Strategy : Définit une famille d'algorithmes interchangeables dynamiquement, permettant de choisir le comportement souhaité au moment de l'exécution.
 
 ### Modèles structurels
-- Adapter : Convertit l'interface d'une classe existante en une autre attendue, permettant une compatibilité entre - des composants incompatibles.
+- Adapter : Convertit l'interface d'une classe existante en une autre attendue, permettant une compatibilité entre des composants incompatibles.
 - Facade : Simplifie l'accès à un système complexe en fournissant une interface unique et simplifiée pour interagir avec ses sous-systèmes.
 
-La vidéo illustre ces designs patterns avec des exemples pratiques, en montrant leurs cas d'utilisation et leurs avantages dans la programmation tout en faisant des parralèles avec la vie de tous les jours.
+La vidéo illustre ces designs patterns avec des exemples pratiques, en montrant leurs cas d'utilisation et leurs avantages dans la programmation tout en faisant des parrallèles avec la vie de tous les jours.
 
 ## Pertinence pour le thème du développement web
 

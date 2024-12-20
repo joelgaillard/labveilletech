@@ -17,10 +17,10 @@ J'ai pris l'initiative pour la suite de ma veille d'occulter l'aspect pédagogiq
 ## Recherche
 J'ai parcouru le web et les réseaux sociaux pour trouver des articles, des vidéos explicatives et des tutoriels traitant de l'actualité du développement web.
 
-J'ai créé des nouveaux comptes spécfiques pour mes recherches pour ne pas être le moins possible biasé par l'effet de bulle.
+J'ai créé des nouveaux comptes spécfiques pour mes recherches afin de minimiser autant que possible l'effet de bulle.
 
 ## Résultat de mes recherches
-Je vous partage ici les deux sources d'informations les plus pertinentes que j'ai pu trouver grâce à mes recherches. Celles-ci sont globales et me permettent 
+Je vous partage ici les deux sources d'informations les plus pertinentes que j'ai pu trouver grâce à mes recherches. Celles-ci sont globales et me permettent d'accéder rapidement à divers types de contenus issus de diverses sources.
 
 J'essaie de les consulter au moins 2 fois par semaines.
 
@@ -41,14 +41,14 @@ Il s'agit d'un média web français créé en 2007 ayant pour but de renseigner 
 
 Cette plateforme propose un contenu varié et régulièrement mis à jour, incluant des articles, des tutoriels, des études, des enquêtes et des interviews sur des sujets tels que le marketing digital, le développement web, les réseaux sociaux, ou encore les outils numériques.
 
-Ils sont également actifs depuis peu sur YouTube. Leurs vidéos servent princinpalement de compléments à leurs articles et celles-ci permettent de la communications plus fluide, notamment au niveau des intervies.
+Ils sont également actifs depuis peu sur YouTube. Leurs vidéos servent princinpalement de compléments à leurs articles et celles-ci permettent de la communications plus fluide, notamment au niveau des interviews.
 
 
 ## Mon système de classement
 
 Je me suis créé un hub notion personnel me permettant de garder une trace du contenu que j'ai trouvé pertinent en les regroupant par catégories.
 
-J'ai voulu créé une sorte de système de mise en favoris élaboré permettant un classement complet et rigoureux.
+J'ai voulu créer une sorte de système de mise en favoris élaboré permettant un classement complet et rigoureux.
 
 J'ai choisi d'utiliser notion car c'est un système très personnalisable et modulable que j'utilise déjà en cours pour ma prise de note et mon agenda.
 
@@ -56,19 +56,19 @@ Basé sur le fonctionnement des bases de données, il permet une communication e
 
 ### Mon Hub 
 
-Le hub se consititue de 3 menus déroulants h1. De base, je le laisse en mode consultation, en ne déroulant que le contenu par catégorie.
+Le hub se constitue de 3 menus déroulants h1. De base, je le laisse en mode consultation, en ne déroulant que le contenu par catégorie.
 
 ![Image](/labveilletech/hub.png)
 
 
 **Vue de mon classement général d'articles**
 
-J'ai créé une db dans notion pour stocker rapidement tous mes articles, qu j'ai placé sous mon menu déroulant classement. 
+J'ai créé une db dans notion pour stocker rapidement tous mes articles, que j'ai placés sous mon menu déroulant classement. 
 Je l'ai affichée sous forme de tableau pour rapidement pouvoir saisir toutes les informations pertinentes.
 
 Notion me laisse la polyvalence de pouvoir facilement créer des documents dans les cases de types texte de ma base de données, ce qui me permet d'ajouter des résumés ou des notes personnelles (en plus du titre) si je le souhaite.
 
-Pour mon classement, j'ai créé différents thèmes pour me retrouver facilement. J'ai également choisi de stocker la date de publication ainsi qu'une date autoincrémentée de classement pour pouvoir me retrouver temporellement.
+Pour mon classement, j'ai créé différents thèmes pour me retrouver facilement. J'ai également choisi de stocker la date de publication ainsi qu'une date auto-incrémentée de classement pour pouvoir me retrouver temporellement.
 
 (Comme je l'ai dit, les dates de classement sont auto-incrémentées, je n'ai évidemment pas attendu le 5 décembre pour faire mes sélections d'articles, mais mon système n'était pas encore fonctionnel avant cette date, d'où ces dates de classement rapprochées ;-) )
 
@@ -77,9 +77,9 @@ Pour mon classement, j'ai créé différents thèmes pour me retrouver facilemen
 
 **Vue d'une catégorie (ici conseils)**
 
-Pour mes catégories, j'ai utilisé une vue de ma base de données de classememt général d'articles, mais les ai filtré par la catégorie référente et affichée cette fois-ci sous forme de vignettes plus visuelles qui me donnent plus envie de relire un article.
+Pour mes catégories, j'ai utilisé une vue de ma base de données de classememt général d'articles, mais les ai filtrés par la catégorie référente et affichées cette fois-ci sous forme de vignettes plus visuelles qui me donnent plus envie de relire un article.
 
-À voir si sur le long terme, lorsque j'aurai bien plus d'articles, s'il est toujours pertinent de garder ce visuel de vignettes. 
+À voir sur le long terme, lorsque j'aurai bien plus d'articles, s'il sera toujours pertinent de garder ce visuel de vignettes. 
 
 Il est de toute manière très simple dans Notion de repasser à une autre forme d'affichage.
 
@@ -90,7 +90,7 @@ Je pense avoir réussi à trouver mon système de veille et de classement, qui v
 
 Le seul point négatif que j'y trouve est la dépendance à Notion.
 
-Cependant, je fais régulièrement des exports en CSV et Markdown de mes espaces Notion que je stocke sur un disque dur externe. Donc même si dans un futur plus ou moins proche Notion disparaissait, j'aurai quand même une sauvegarde de ma veille, qui j'imagine pourrait être compatible avec d'autre plateformes basées sur les fichiers Markdown comme Obsidian.
+Cependant, je fais régulièrement des exports en CSV et Markdown de mes espaces Notion que je stocke sur un disque dur externe. Donc même si dans un futur plus ou moins proche Notion disparaissait, j'aurai quand même une sauvegarde de ma veille, qui j'imagine pourrait être compatible avec d'autres plateformes basées sur les fichiers Markdown comme Obsidian.
 
 
 

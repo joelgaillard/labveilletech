@@ -16,7 +16,7 @@ C'est lors de cette formation que j'ai découvert et ai appris à aimer le déve
 
 Ce domaine  consiste à créer et à entretenir des sites internet et des applications web. Cela implique tout le travail nécessaire pour concevoir et coder l'interface visible pour les utilisateurs ainsi que les fonctionnalités qui tournent en fond pour faire fonctionner le site.
 
-Pour se faire se démarquer dans ce domaine, le mieux est de comprendre toutes les composantes d'un site ou d'une application.
+Pour se démarquer dans ce domaine, le mieux est de comprendre toutes les composantes d'un site ou d'une application.
 
 C'est pourquoi je souhaiterais m'orienter vers le métier de développeur fullstack qui est à l'ordre du jour et en constante évolution. Il nécessite une compréhension des technologies front-end et back-end, ainsi qu'une capacité à résoudre des problèmes complexes.
 
